@@ -13,7 +13,6 @@ import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 public class RetroServer {
-//    private static final String base_url = "https://jsonplaceholder.typicode.com";
     private static final String base_url = "https://newsapi.org/v2/";
 
     private static Retrofit setInit(){
