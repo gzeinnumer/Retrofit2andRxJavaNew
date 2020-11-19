@@ -48,7 +48,7 @@ public class RetroServer {
 }
 ```
 
-- Apiservice.java
+- Apiservice
 ```java
 public interface ApiService {
     //rx-java-type-1
