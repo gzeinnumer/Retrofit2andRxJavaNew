@@ -259,6 +259,8 @@ vm.getMaster().observe(this, resource -> {
 });
 ```
 
+---
+
 ```
 Copyright 2020 M. Fadli Zein
 ```
